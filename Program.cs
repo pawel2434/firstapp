@@ -10,6 +10,10 @@ namespace FirstApp
             for (var i = 0; i < 10; i++)
             {
                 Console.WriteLine("Hello World!");
+                int a = 3;
+                int b = 4;
+                Console.WriteLine(a*b);
+                
             }
 
             //blokuje ekran do czasu az wciśniesz guzik
